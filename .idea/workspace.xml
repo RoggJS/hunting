@@ -5,10 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_libs.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_libs.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/sass/_media.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_media.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sass/_vars.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_vars.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/sass/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/main.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +19,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="152" column="16" lean-forward="true" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="40" />
+            <state relative-caret-position="518">
+              <caret line="436" column="36" selection-start-line="436" selection-start-column="36" selection-end-line="436" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -31,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="62" selection-start-line="62" selection-end-line="68" selection-end-column="24" />
+            <state relative-caret-position="361">
+              <caret line="393" column="6" selection-start-line="393" selection-start-column="6" selection-end-line="393" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -50,16 +52,7 @@
         <entry file="file://$PROJECT_DIR$/app/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="539">
-              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="5" />
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -68,16 +61,34 @@
         <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/styles.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="73" column="23" lean-forward="true" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+            <state relative-caret-position="386">
+              <caret line="5483" column="26" selection-start-line="5483" selection-start-column="26" selection-end-line="5483" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="117" column="93" selection-start-line="117" selection-start-column="93" selection-end-line="117" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -90,10 +101,20 @@
       <find>.logo</find>
       <find>slide-menu-close</find>
       <find>.overlay-slide-form</find>
-      <find>main-page-slider-item</find>
       <find>decorative</find>
-      <find>slide-menu-left</find>
       <find>.main-page-slider-item-description</find>
+      <find>main-page-slider-item</find>
+      <find>header-banner</find>
+      <find>services-card</find>
+      <find>.learn-card span</find>
+      <find>slide-menu-left</find>
+      <find>do-image</find>
+      <find>social-links</find>
+      <find>do-row</find>
+      <find>do-list-padding</find>
+      <find>do-image</find>
+      <find>.banner-button</find>
+      <find>.learn-card</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,14 +131,17 @@
         <option value="$PROJECT_DIR$/app/sass/_libs.sass" />
         <option value="$PROJECT_DIR$/app/libs/slick/slick-theme.scss" />
         <option value="$PROJECT_DIR$/app/js/custom.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/sass/main.sass" />
         <option value="$PROJECT_DIR$/app/css/styles.min.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/functions 2.php" />
+        <option value="$PROJECT_DIR$/app/sass/main.sass" />
+        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/sass/_media.sass" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/styles.min.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="363" />
     <option name="width" value="816" />
     <option name="height" value="576" />
@@ -207,12 +231,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602483594734</updated>
-      <workItem from="1602483595827" duration="23778000" />
+      <workItem from="1602483595827" duration="33398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23778000" />
+    <option name="totallyTimeSpent" value="33398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -221,7 +245,7 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Gulp" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -308,21 +332,14 @@
     <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="152" column="16" lean-forward="true" selection-start-line="152" selection-start-column="16" selection-end-line="152" selection-end-column="40" />
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -340,17 +357,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer 2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/functions 2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="62" selection-start-line="62" selection-end-line="68" selection-end-column="24" />
+        <state relative-caret-position="168">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="436" column="36" selection-start-line="436" selection-start-column="36" selection-end-line="436" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="73" column="23" lean-forward="true" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+        <state relative-caret-position="629">
+          <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="393" column="6" selection-start-line="393" selection-start-column="6" selection-end-line="393" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="117" column="93" selection-start-line="117" selection-start-column="93" selection-end-line="117" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/styles.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="5483" column="26" selection-start-line="5483" selection-start-column="26" selection-end-line="5483" selection-end-column="26" />
         </state>
       </provider>
     </entry>
