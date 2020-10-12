@@ -1,0 +1,89 @@
+@import "vars"
+
+
+/*!==========  Desktop First MEDIA ==========*/
+
+// ≥1200px
++media-breakpoint-down(lg)
+
+// ≥992px
++media-breakpoint-down(md)
+    .mob-menu-link
+        display: flex
+        width: 64px
+        height: 64px
+        margin-left: 40px
+        padding: 15px
+        cursor: pointer
+        border: none
+        border-radius: 22px
+        background: #302112
+        justify-content: center
+        align-items: center
+        align-content: center
+        flex-wrap: wrap
+        & span
+            position: relative
+            display: block
+            width: 100%
+            height: 3px
+            transition: .2s linear
+            border-radius: 2px
+            background: #fff
+
+        & span:nth-child(2)
+            width: calc(100% - 10px)
+            margin-right: 10px
+
+    .mob-menu-link span+span
+        margin-top: 6px
+    .social-links img
+        margin-left: 10px
+    .top-contacts
+        margin-left: 30px
+
+
+
+// ≥768px
++media-breakpoint-down(sm)
+    .logo-subtitle
+        font-size: 14px
+    .social-links
+        display: none
+    .top-contacts
+        display: none
+    .top-header-side
+        padding: 20px 0 0 0
+    .mobile-contacts-row
+        display: flex
+        margin-top: 15px
+        padding: 15px 20px
+        background: rgba(0,0,0,.04)
+        width: calc(100% + 40px)
+        margin-right: -20px
+        margin-left: -20px
+        align-items: center
+        justify-content: center
+        & a
+            width: 35px
+            height: 35px
+            display: block
+            margin: 5px
+            & img
+                width: 100%
+                display: block
+    .icon-background
+        background: $accent
+        padding: 8px
+        border-radius: 50%
+        box-shadow: 0 5px 13px rgba(110, 117, 14, 0.54)
+        justify-content: center
+        align-items: center
+        align-content: center
+
+
+
+// ≥576px
++media-breakpoint-down(xs)
+
+
