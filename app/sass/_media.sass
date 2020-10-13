@@ -7,10 +7,20 @@
 +media-breakpoint-down(lg)
     .main-menu-item a
         padding: 15px 20px
-
+    .our-work-image
+        position: static
+        display: block
+        width: 100%
+        max-width: 600px
 
 // ≥992px
 +media-breakpoint-down(md)
+    .our-work-image
+        position: static
+        display: block
+        width: 100%
+        max-width: 400px
+        margin: 5px auto
     .mob-menu-link
         display: flex
         width: 64px
@@ -74,6 +84,7 @@
         margin-top: 30px
     .single-post-button
         display: none
+
 // ≥768px
 +media-breakpoint-down(sm)
     .h1-title
@@ -148,6 +159,10 @@
         font-weight: 600
     .faq-title:after
         right: -55px
+    .gallery-card
+        width: 100%
+        max-width: 357px
+        height: 240px
 // ≥576px
 +media-breakpoint-down(xs)
     .main-page-slider-item-title
@@ -168,4 +183,7 @@
             text-align: center
     .object-gallery-card
         height: 190px
-
+    .steps-card-title
+        font-size: 18px
+        line-height: 19px
+        padding-bottom: 9px
