@@ -67,6 +67,25 @@ $(function () {
     });
 
 
+ //accordion faq
+    $('body').on('click', '.faq-item', function (e) {
+        e.preventDefault();
+
+        let parent = $(this).closest('.faq-item');
+        let accordion = $(this).closest('.faq-accordion');
+
+        if (parent.hasClass('active')) {
+            parent.removeClass('active');
+            parent.find('.faq-data').slideUp(300)
+        } else {
+            accordion.find('.faq-item').removeClass('active');
+            accordion.find('.faq-data').slideUp(300);
+
+            parent.addClass('active');
+            parent.find('.faq-data').slideDown(300)
+        }
+    })
+
 });
 
 
