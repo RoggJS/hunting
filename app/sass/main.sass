@@ -47,7 +47,11 @@ body.lock
     border: none
     border-radius: 50%
     background: $accent  url("../img/ic_buttonUp.png") no-repeat top 4px  center
-
+.slick-dots li button:before
+    font-size: 55px
+.slick-dots li.slick-active button:before
+    color: $accent
+    opacity: 1
 /*!
  * button style
  * Основной стиль для кнопок без позиционирования.
@@ -697,7 +701,7 @@ body.lock
     transform: rotate(90deg)
 .our-work-image
     position: relative
-    left: -90px
+
 .steps-card-number
     font-size: 55px
     line-height: 1.5
@@ -802,6 +806,15 @@ body.lock
 .social-line
     display: flex
     align-items: center
-
+.map-area-fancy
+    display: block
+    margin: 30px auto
+    width: 100%
+    max-width: 500px
+    & img
+        display: block
+        width: 100%
+        height: 100%
+        object-fit: contain
 
 @import "media"

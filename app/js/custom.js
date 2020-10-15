@@ -36,8 +36,8 @@ $(function () {
     $('.main-page-slider').slick({
         arrows: false,
         autoplay: true,
-        autoplaySpeed: 3000,
-        dots: false,
+        autoplaySpeed: 5000,
+        dots: true,
         infinite: true,
         speed: 300,
         slidesToShow: 1,
